@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+PhD student currently focused on NLP and computational linguistics.
+
 <!--
 **leahward97/leahward97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
